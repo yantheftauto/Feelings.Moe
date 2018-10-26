@@ -9,3 +9,6 @@ class SignupForm(forms.Form):
         max_length=500,
         widget=forms.Textarea(),
     )
+
+    def send_email(self):
+        pass
