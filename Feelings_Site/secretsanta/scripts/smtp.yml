@@ -1,0 +1,5 @@
+smtp_server: smtp.gmail.com
+domain: gmail.com
+account_address: orderoffeelings@gmail.com
+account_password: denko1234
+port: 587

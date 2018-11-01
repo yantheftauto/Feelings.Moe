@@ -1,0 +1,61 @@
+david: 
+    name: David Chen
+    email: dxchen3@gmail.com
+    address: "2147 Ridge Avenue Apt 3D, Evanston, Illinois 60201"
+    wishlist: "Magic(The Gathering). Vidya Games, going insane"
+stephan:
+    name: Stephan Bartz
+    email: sbartz@willamette.edu
+    address: "Box A179, 900 State Street, Salem, OR 97301"
+    wishlist: ""
+alex:
+    name: Alex Liu  
+    email: randomppls@gmail.com
+    address: "1787 Franklin Street, Berkeley, CA 94702"
+    wishlist: "Household Furnishings, League, Guild Wars"
+samuel:
+    name: Samuel Swanson
+    email: sswanson@willamette.edu
+    address: "2014 N. Webster, Portland, Oregon 97217"
+    wishlist: "Video Games/basketball"
+richard:
+    name: Richard Dong
+    email: supermarth64@gmail.com
+    address: "16 Tremont Street, Stoneham, MA 02180"
+    wishlist: "Anime!"
+daniel:
+    name: Daniel Huynh
+    email: danielhuynh.zy@gmail.com
+    address: "12 Skywood St., Ladera Ranch, CA 92694"
+    wishlist: "idols, gaming, mugs."
+michelle:
+    name: Michelle Huang
+    email: mkyhuang@gmail.com
+    address: "450 Memorial Dr. D214, Cambridge, MA 02139"
+    wishlist: ""
+derrick:
+    name: Derrick Lee
+    email: derrick93@gmail.com
+    address: "If delivered before 12/14: Derrick Lee, Short-Term Housing, 5000 Nathaniel Rochester Hall, Rochester, NY 14623, If delivered after 12/14: Derrick Lee, 2194 14th Ave., San Francisco, CA 94116"
+    wishlist: ""
+kristina:
+    name: Kristina Nguyen
+    email: kristina.nguyen.hong@gmail.com
+    address: "15 Santa Sophia, Rancho Santa Margarita, CA 92688"
+    wishlist: "Anime things, weird food, video games, your mom, uhh something not perverted this year pls, unless it's an ovipositor ;D oh bby"
+jake:
+    name: Jake Waldner
+    email: jwaldner@willamette.edu
+    address: "728 Norman Avenue NE Salem, Oregon 97301"
+    wishlist: "drinking, video games, wine(included in drinking), reading (Fantasy), Soccer (Portland Timbers), "
+justin:
+    name: Justin Fu
+    email: JUSTINJFU@GMAIL.COM
+    address: "3757 TORREY VIEW CT., San Diego, CA 92130"
+    wishlist: ""
+xavier:
+    name: Xavier Wiltbank
+    email: xavierwiltbank@gmail.com
+    address: "276 Colonnade Drive Apt #38, Charlottesville, VA 22903"
+    wishlist: "Video Games / Toys"
+
